@@ -1,0 +1,4 @@
+C:\Users\brenr\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6948.80\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\brenr\Documents\CPPFun\LinkedLists\CircularLLInC
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/brenr/Documents/CPPFun/LinkedLists/CircularLLInC/cmake-build-debug

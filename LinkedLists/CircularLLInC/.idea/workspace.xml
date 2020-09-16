@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CircularLLInC" targetName="CircularLLInC" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5bde0dd-7485-4f69-a39b-f448fb7c3f13" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="qwzgsa9v" />
+  </component>
+  <component name="ProjectId" id="1hVahOPDJYVV7tNwOz0Usi43R0s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircularLLInC" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CircularLLInC" TARGET_NAME="CircularLLInC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CircularLLInC" RUN_TARGET_NAME="CircularLLInC">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5bde0dd-7485-4f69-a39b-f448fb7c3f13" name="Default Changelist" comment="" />
+      <created>1600098831669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600098831669</updated>
+      <workItem from="1600098832780" duration="6133000" />
+      <workItem from="1600207691580" duration="2062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1074" y="192" key="#xdebugger.evaluate" timestamp="1600214129481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1074" y="192" key="#xdebugger.evaluate/0.0.1920.1040/-2560.0.2560.1040@0.0.1920.1040" timestamp="1600214129481" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1600215219335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-2560.0.2560.1040@0.0.1920.1040" timestamp="1600215219335" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1600215219335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-2560.0.2560.1040@0.0.1920.1040" timestamp="1600215219335" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1600215219335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-2560.0.2560.1040@0.0.1920.1040" timestamp="1600215219335" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1600215219335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-2560.0.2560.1040@0.0.1920.1040" timestamp="1600215219335" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1600215219336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-2560.0.2560.1040@0.0.1920.1040" timestamp="1600215219336" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1600215219336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-2560.0.2560.1040@0.0.1920.1040" timestamp="1600215219336" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1600215219335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-2560.0.2560.1040@0.0.1920.1040" timestamp="1600215219335" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1600215219336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-2560.0.2560.1040@0.0.1920.1040" timestamp="1600215219336" />
+  </component>
+</project>

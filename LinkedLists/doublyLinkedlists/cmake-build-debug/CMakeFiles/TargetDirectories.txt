@@ -1,0 +1,3 @@
+C:/Users/brenr/Documents/CPPFun/LinkedLists/doublyLinkedlists/cmake-build-debug/CMakeFiles/doublyLinkedLists.dir
+C:/Users/brenr/Documents/CPPFun/LinkedLists/doublyLinkedlists/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/brenr/Documents/CPPFun/LinkedLists/doublyLinkedlists/cmake-build-debug/CMakeFiles/rebuild_cache.dir

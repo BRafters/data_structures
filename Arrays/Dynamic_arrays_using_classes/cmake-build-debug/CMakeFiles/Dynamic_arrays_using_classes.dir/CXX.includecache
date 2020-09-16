@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/brenr/Documents/CPPFun/Arrays/Dynamic_arrays_using_classes/container.h
+iostream
+-
+
+C:/Users/brenr/Documents/CPPFun/Arrays/Dynamic_arrays_using_classes/main.cpp
+iostream
+-
+container.h
+C:/Users/brenr/Documents/CPPFun/Arrays/Dynamic_arrays_using_classes/container.h
+
